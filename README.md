@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Building solutions on Etheruem, BSc and L2s
+- 🔭 I’m currently working on Building solutions on Ethereum, BSc and L2s
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on any defi/fintech project
 - 🤔 I’m looking for help with 
