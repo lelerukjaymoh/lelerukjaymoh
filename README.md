@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Building solutions on Ethereum, BSc and L2s
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go and Zk
 - 👯 I’m looking to collaborate on any defi / fintech project
 - 💬 Ask me about Ethreum and Bsc
 - 📫 How to reach me: lelerukjaymoh@gmail.com
