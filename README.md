@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on any defi / fintech project
 - 💬 Ask me about Ethreum and Bsc
 - 📫 How to reach me: lelerukjaymoh@gmail.com
-- 😄 Pronouns: He
 
 
 
